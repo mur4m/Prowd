@@ -40,7 +40,7 @@ lancer l'app avec : Expo start
 
 ATTENTION //
 
-l'app marche sur le navigateur pour le moment, encore des erreurs à régler avant qu'elle ne s'affiche sur un téléphone.
+l'app marche sur le navigateur local pour le moment, encore des erreurs à régler avant qu'elle ne s'affiche sur un téléphone.
 
 
 ############################ ENGLISH ##################################
@@ -86,4 +86,4 @@ launch app : Expo start
 
 CAUTION //
 
-The app only displays on web browser at the moment while I am resolving issues that prevent display on mobile phones.
+The app only displays on local web browser at the moment while I am resolving issues that prevent display on mobile phones.
